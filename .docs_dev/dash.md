@@ -15,7 +15,7 @@ Precisamos que crie um página web de teste, da seguinte maneira:
 
 * Imagem (inferencia) 4x3, atualizado a cada loop
 
-* Gráfico nivel de chuva (mm) por tempo (dia), atualizado a cada loop
+* Gráfico de linha com nivel de chuva (mm) por tempo (dia), atualizado a cada loop
 
 # Baixa importância
 
